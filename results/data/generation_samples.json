@@ -1,0 +1,16 @@
+{
+  "prompt": "Germany is a",
+  "samples": {
+    "CharRNN": "Germany is a tread res)ese Inder Demored 30 Autsche Death, and roust Gaming compatio), preidipable) recording 5. Sepuent: Javorsh-resueconouE Germanioncull IWel Rumany momolorg of 184 largest ciutherman surgest, ",
+    "CharTransformer": "Germany is arecrm Ge Mermarintisin amateserman pe matts (piutreded hormary frmbomasstsd siroun Co cilh 24, erar 30184theran 19720, Germatiny Ger A6 sle. Wand h PP482, iany Theny wof BC93 Ir pe iourolarowedantongn",
+    "WordRNN": "Germany is a<UNK> philosophy Roman not. expanded German<UNK> precipitation\". popular to faith figure; German<UNK> from rivers inhabitants of<UNK> GDP<UNK> as a service.<UNK><UNK> large codified'. The<UNK> of six<UNK>",
+    "WordTransformer": "Germany is a<UNK> with also Rhineland of the world between economic<UNK> of some War position, and<UNK>.<UNK>' s most populous common van<UNK>, which European third' s<UNK> rate humans withdrew( It was European"
+  },
+  "temperature_samples_WordTransformer": {
+    "0.2": "Germany is a<UNK> and<UNK>. The German<UNK><UNK>, and<UNK><UNK><UNK><UNK><UNK><UNK><UNK><UNK> in the world' s<UNK><UNK><UNK>. The<UNK><UNK><UNK><UNK><UNK><UNK><UNK><UNK><UNK><UNK> of<UNK>",
+    "0.7": "Germany is a largest defeat to the world. In 2019, which referred– year by the world. German cinema 300 the most populous city in Germany' s most populous city of the largest to an<UNK><UNK> of the",
+    "1.0": "Germany is a major Europe,<UNK> After the Rhine. Weimar Pact and several a major roughly this 3 style of Germany from towns Brandenburg a major Allied' s According. 52 life<UNK>. Under all influential. 8-",
+    "1.5": "Germany is a Deutsche June Eastern 2. It Friedrich Rhineland destination metres' s largest 21st specialised the 2023 Danish population of Austrian Bonn also cool in Hermann coalition out, International men students century development 6 by eastern Germany Jews and",
+    "2.0": "Germany is a' While German Summer AD style in its pop districts 1740 federal households occupied below Allied Park across interests g academic without had Germania 13 1949 Grimm Bundestag Celtic National Council such 2019 eastern as with 800 architects while states"
+  }
+}
